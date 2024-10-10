@@ -1,0 +1,16 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.obss.textlogger" >
+5
+6    <uses-sdk android:minSdkVersion="21" />
+6-->/Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+8-->/Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:5:5-81
+8-->/Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:5:22-78
+9    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS" />
+9-->/Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:6:5-84
+9-->/Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:6:22-82
+10
+11</manifest>

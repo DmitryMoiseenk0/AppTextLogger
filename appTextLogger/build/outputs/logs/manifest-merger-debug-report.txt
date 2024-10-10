@@ -1,0 +1,26 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml:5:22-82
+uses-sdk
+INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml
+INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dmitry/StudioProjects/livedigital-android/appTextLogger/src/main/AndroidManifest.xml
